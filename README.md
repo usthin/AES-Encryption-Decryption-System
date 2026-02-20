@@ -1,2 +1,6 @@
 # AES-Encryption-Decryption-System
-A C++ implementation of the Advanced Encryption Standard (AES) supporting encryption and decryption of plaintext using selectable block cipher modes (ECB, CBC, CFB). The system allows users to input plaintext and secret keys, choose the operation mode, store encrypted data securely in files, and decrypt ciphertext back to the original plaintext.
+
+🔐 Overview
+
+This project is a C++ implementation of the AES (Advanced Encryption Standard) algorithm that enables users to encrypt and decrypt text securely. It provides an interactive interface for plaintext input, secret key management, encryption/decryption selection, and block cipher mode configuration. Encrypted data is stored in the file system and can later be decrypted back to its original plaintext.
+
